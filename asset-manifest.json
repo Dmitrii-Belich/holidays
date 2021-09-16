@@ -1,25 +1,25 @@
 {
   "files": {
     "main.css": "/holidays/static/css/main.8f0e4029.chunk.css",
-    "main.js": "/holidays/static/js/main.6bbff4b5.chunk.js",
-    "main.js.map": "/holidays/static/js/main.6bbff4b5.chunk.js.map",
+    "main.js": "/holidays/static/js/main.15614f83.chunk.js",
+    "main.js.map": "/holidays/static/js/main.15614f83.chunk.js.map",
     "runtime-main.js": "/holidays/static/js/runtime-main.2b356f5d.js",
     "runtime-main.js.map": "/holidays/static/js/runtime-main.2b356f5d.js.map",
     "static/css/2.a95be28f.chunk.css": "/holidays/static/css/2.a95be28f.chunk.css",
-    "static/js/2.a3f54c14.chunk.js": "/holidays/static/js/2.a3f54c14.chunk.js",
-    "static/js/2.a3f54c14.chunk.js.map": "/holidays/static/js/2.a3f54c14.chunk.js.map",
+    "static/js/2.3964ffe0.chunk.js": "/holidays/static/js/2.3964ffe0.chunk.js",
+    "static/js/2.3964ffe0.chunk.js.map": "/holidays/static/js/2.3964ffe0.chunk.js.map",
     "static/js/3.4d6afdb8.chunk.js": "/holidays/static/js/3.4d6afdb8.chunk.js",
     "static/js/3.4d6afdb8.chunk.js.map": "/holidays/static/js/3.4d6afdb8.chunk.js.map",
     "index.html": "/holidays/index.html",
     "static/css/2.a95be28f.chunk.css.map": "/holidays/static/css/2.a95be28f.chunk.css.map",
     "static/css/main.8f0e4029.chunk.css.map": "/holidays/static/css/main.8f0e4029.chunk.css.map",
-    "static/js/2.a3f54c14.chunk.js.LICENSE.txt": "/holidays/static/js/2.a3f54c14.chunk.js.LICENSE.txt"
+    "static/js/2.3964ffe0.chunk.js.LICENSE.txt": "/holidays/static/js/2.3964ffe0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.2b356f5d.js",
     "static/css/2.a95be28f.chunk.css",
-    "static/js/2.a3f54c14.chunk.js",
+    "static/js/2.3964ffe0.chunk.js",
     "static/css/main.8f0e4029.chunk.css",
-    "static/js/main.6bbff4b5.chunk.js"
+    "static/js/main.15614f83.chunk.js"
   ]
 }

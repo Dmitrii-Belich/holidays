@@ -1,0 +1,182 @@
+[
+  {
+    "uuid": "318ee15f-3850-4a07-ae4f-375659217abb",
+    "start_at": "2021-08-01",
+    "end_at": "2021-08-10",
+    "duration": 9,
+    "employee_info": {
+      "id": 1,
+      "name": "Евгений Полосухин",
+      "color": "#32a852"
+    },
+    "holiday": {
+      "id": 0,
+      "name": "Ежегодный отпуск"
+    }
+  },
+  {
+    "uuid": "b19b803b-c4ca-4947-9f40-bf56b165d84d",
+    "start_at": "2021-07-05",
+    "end_at": "2021-07-12",
+    "duration": 7,
+    "employee_info": {
+      "id": 2,
+      "name": "Дмитрий Белич",
+      "color": "#18dbce"
+    },
+    "holiday": {
+      "id": 1,
+      "name": "Отгул"
+    }
+  },
+  {
+    "uuid": "ff251285-8fe9-49fc-8b50-13e472d7e3f8",
+    "start_at": "2021-08-23",
+    "end_at": "2021-08-29",
+    "duration": 6,
+    "employee_info": {
+      "id": 3,
+      "name": "Владислав Томилин",
+      "color": "#18db42"
+    },
+    "holiday": {
+      "id": 0,
+      "name": "Ежегодный отпуск"
+    }
+  },
+  {
+    "uuid": "dd14fece-a2ba-4e0f-85fb-25c32f27cfeb",
+    "start_at": "2021-08-02",
+    "end_at": "2021-08-02",
+    "duration": 0,
+    "employee_info": {
+      "id": 4,
+      "name": "Елизавета Прилуцкая",
+      "color": "#db3218"
+    },
+    "holiday": {
+      "id": 2,
+      "name": "Больничный"
+    }
+  },
+  {
+    "uuid": "318ee15f-3850-4a07-ae4f-375659217abb",
+    "start_at": "2021-09-01",
+    "end_at": "2021-09-10",
+    "duration": 9,
+    "employee_info": {
+      "id": 1,
+      "name": "Евгений Полосухин",
+      "color": "#32a852"
+    },
+    "holiday": {
+      "id": 0,
+      "name": "Ежегодный отпуск"
+    }
+  },
+  {
+    "uuid": "b19b803b-c4ca-4947-9f40-bf56b165d84d",
+    "start_at": "2021-09-05",
+    "end_at": "2021-09-12",
+    "duration": 7,
+    "employee_info": {
+      "id": 2,
+      "name": "Дмитрий Белич",
+      "color": "#18dbce"
+    },
+    "holiday": {
+      "id": 1,
+      "name": "Отгул"
+    }
+  },
+  {
+    "uuid": "ff251285-8fe9-49fc-8b50-13e472d7e3f8",
+    "start_at": "2021-09-23",
+    "end_at": "2021-09-29",
+    "duration": 6,
+    "employee_info": {
+      "id": 3,
+      "name": "Владислав Томилин",
+      "color": "#18db42"
+    },
+    "holiday": {
+      "id": 0,
+      "name": "Ежегодный отпуск"
+    }
+  },
+  {
+    "uuid": "dd14fece-a2ba-4e0f-85fb-25c32f27cfeb",
+    "start_at": "2021-09-02",
+    "end_at": "2021-09-02",
+    "duration": 0,
+    "employee_info": {
+      "id": 1,
+      "name": "Евгений Полосухин",
+      "color": "#32a852"
+    },
+    "holiday": {
+      "id": 2,
+      "name": "Больничный"
+    }
+  },
+  {
+    "uuid": "318ee15f-3850-4a07-ae4f-375659217abb",
+    "start_at": "2021-10-01",
+    "end_at": "2021-10-10",
+    "duration": 9,
+    "employee_info": {
+      "id": 1,
+      "name": "Евгений Полосухин",
+      "color": "#32a852"
+    },
+    "holiday": {
+      "id": 0,
+      "name": "Ежегодный отпуск"
+    }
+  },
+  {
+    "uuid": "b19b803b-c4ca-4947-9f40-bf56b165d84d",
+    "start_at": "2021-10-05",
+    "end_at": "2021-10-12",
+    "duration": 7,
+    "employee_info": {
+      "id": 2,
+      "name": "Дмитрий Белич",
+      "color": "#18dbce"
+    },
+    "holiday": {
+      "id": 1,
+      "name": "Отгул"
+    }
+  },
+  {
+    "uuid": "ff251285-8fe9-49fc-8b50-13e472d7e3f8",
+    "start_at": "2021-10-23",
+    "end_at": "2021-10-29",
+    "duration": 6,
+    "employee_info": {
+      "id": 3,
+      "name": "Владислав Томилин",
+      "color": "#18db42"
+    },
+    "holiday": {
+      "id": 0,
+      "name": "Ежегодный отпуск"
+    }
+  },
+  {
+    "uuid": "dd14fece-a2ba-4e0f-85fb-25c32f27cfeb",
+    "start_at": "2021-10-02",
+    "end_at": "2021-10-02",
+    "duration": 0,
+    "employee_info": {
+      "id": 4,
+      "name": "Елизавета Прилуцкая",
+      "color": "#db3218"
+    },
+    "holiday": {
+      "id": 2,
+      "name": "Больничный"
+    }
+  }
+]
